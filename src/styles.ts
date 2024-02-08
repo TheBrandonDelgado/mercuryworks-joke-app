@@ -76,6 +76,7 @@ export const styles = {
       backgroundSize: 'contain',
       backgroundRepeat: 'no-repeat',
       backgroundPosition: 'right',
-      height: 100
+      height: 100,
+      textAlign: 'right'
     }
 }
